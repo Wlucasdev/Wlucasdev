@@ -1,4 +1,10 @@
-### Olá! Sou Wesley Lucas ! 😁
+### Olá! Sou Wesley Lucas ! 
+<div style="display: inline_block"><br/>
+    <img align="center" alt="windowns" src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white>
+    <img align="center" alt="android" src =	https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=whi >
+</div><br/>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wlucasdev&show_icons=true&theme=dracula)
 
 ### Tecnologias que usso no meu dia-a-dia
