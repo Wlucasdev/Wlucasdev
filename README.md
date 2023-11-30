@@ -7,6 +7,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wlucasdev&show_icons=true&theme=dracula)
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wlucasdev&show&theme=blue-green)
 
 <h2>Tecnologias que uso no meu dia-a-dia<h2>
